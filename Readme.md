@@ -39,16 +39,16 @@ Most Common Headers
 MORE 
 Header Information
 
-CORS
--Access-Control-Allow-Origin
--Access-Control-Allow-Credentials
--Access-Control-Allow-Method
+=> CORS
+1. Access-Control-Allow-Origin
+2. Access-Control-Allow-Credentials
+3. Access-Control-Allow-Method
 
-Security
--Cross-Origin-Embedder-Policy
--Cross-Origin-Openers-Policy
--Content-Security-Policy
--X-XSS-Protection
+=> Security
+1. Cross-Origin-Embedder-Policy
+2. Cross-Origin-Openers-Policy
+3. Content-Security-Policy
+4. X-XSS-Protection
 
 HTTP methods
 Basic set of operations that can be used to interact with server
